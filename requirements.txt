@@ -9,4 +9,5 @@ seaborn
 flask
 jupyter
 openpyxl
+gdown
 reportlab
